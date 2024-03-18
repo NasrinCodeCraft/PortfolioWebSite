@@ -126,6 +126,7 @@ function About({ maxValue = 6 }) {
                 <div className="col-sm-6">
                   <img className="img-fluid rounded mx-auto" src={aboutImg1} alt="aboutImg1" />
                 </div>
+                
                 <div className="col-sm-6">
                   <img className="img-fluid rounded mx-auto" src={aboutImg2} alt="aboutImg2" />
                 </div>
